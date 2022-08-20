@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="06cc5f3b-d60b-46e1-be85-554504fc4d74" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/Bridgelabz/UC19_Retrieve_Number.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/Bridgelabz/UC20_Add_New_Contact.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,9 +42,22 @@
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.UC19_Retrieve_Number">
+  <component name="RunManager" selected="Application.UC20_Add_New_Contact">
     <configuration name="UC19_Retrieve_Number" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.Bridgelabz.UC19_Retrieve_Number" />
+      <module name="JDBC_Address_Book" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.Bridgelabz.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UC20_Add_New_Contact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.Bridgelabz.UC20_Add_New_Contact" />
       <module name="JDBC_Address_Book" />
       <extension name="coverage">
         <pattern>
@@ -85,6 +97,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.UC20_Add_New_Contact" />
         <item itemvalue="Application.UC19_Retrieve_Number" />
         <item itemvalue="Application.com.Bridgelabz.UC17_JDBC_Update" />
         <item itemvalue="Application.com.Bridgelabz.JDBC_Address_Book" />
