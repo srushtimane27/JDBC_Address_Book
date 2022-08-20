@@ -4,7 +4,7 @@ import java.security.spec.RSAOtherPrimeInfo;
 import java.sql.*;
 import java.util.Scanner;
 
-public class JDBC_Address_Book {
+public class UC16_JDBC_Address_Book {
     public static void main(String[] args) {
         Connection con = null;
         PreparedStatement stm = null;
